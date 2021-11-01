@@ -12,5 +12,8 @@
   <li>Soy proactiva, productiva, organizada, y me adapto con facilidad a distintas culturas y metodologías de trabajo:boom:</li>
 </ul>
 
+<h3 align="left">Lenguajes:</h3>
+<p align="left">
 
+<th> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
 
