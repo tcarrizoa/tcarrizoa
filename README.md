@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi :alien: </h2>
 
-<img src="https://github.com/tcarrizoa/tcarrizoa/blob/main/profile.jpeg" align="right">
+<img src="https://github.com/tcarrizoa/tcarrizoa/blob/main/myAvatar.png" align="right">
 
 
 ## Sobre mí:
